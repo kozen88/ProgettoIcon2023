@@ -1,0 +1,1 @@
+La RandomizedSearchCV usata per ottimizzarte l'ottimizzazione dei parametri ha permesso di ottenere buoni risultati, ma c'è un assunzione forte sulle distribuzioni dellle classi fatte a priori con questo tipo di approccio.
