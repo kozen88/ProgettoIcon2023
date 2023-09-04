@@ -1,0 +1,1 @@
+I 2 data set presenti in questa cartella rappresentano i dati di partenza dopo aver applicato le tecniche di pulitura dei dati, feature engeneering con one hot encode e standardizzazione delle feature di input e dopo questi passaggi è stato applicato l'algoritmo di ADASYN per effettuare oversampling della classe minoritaria ed equilibrare le due classi del data set.

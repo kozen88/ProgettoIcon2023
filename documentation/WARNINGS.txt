@@ -1,0 +1,12 @@
+Nella cartella documentazione si trovano tutti i file inerenti alla documentazione e spiegazione del caso di studio sviluppato in particolare la cartella contiene:
+
+- cartella img: è la cartella delle immagini contenente img_presentazione contenente i loghi della
+  	università e le imagini usate per la presentazione in power point.
+
+-cartella plot_and_figure: contiene tutte le immagine ottenute utilizzando codice python su google colab in particolare sono raccolte le 	immagine sulle statistiche dei dati e le tecniche utilizzate per ridurre lo sbilanciamento inoltre vi sono contenute cartelle 	specifiche contenenti le immagini dei risultati ottenuti per ogni modello sul quale sono stati condotti gli esperimenti.
+
+- documentazione_del_progetto: file che contiene il reso conto dello studio le metodologie applicate e la descrizione degli esempi 	effettuati correlata dei relativi risultati ottenuti
+
+- presentazione_progetto_ICON: è la raccolta di 21 diapositive che racchiudono i punti salienti del caso di studio affinché sia presentato 	durante l'esame. Risulta anche un ottima mappa delle idee caratterizzanti del progetti nel caso in cui la documentazione dovesse 	richiedere troppo tempo per la visione delle informazioni contenute.
+
+Infine come indicato nella stessa documetazione alcune immagini sono state omesse per non appesantire la documentazione che di per sé risulta abbasttanza lunga e l'omissione è sostenuta dall'utilizzo dei notebook dettagliati che racchiudono idee sulle azioni svolte e il codice eseguito per gli esperimenti.

@@ -1,1 +1,0 @@
-I 2 data set presenti in questa cartella rappresentano i dati di partenza a ui è stato applicato l'algoritmo di SMOTEENN ovvero lo SMOTE + ENN per cercare di bilanciare le due classi.
