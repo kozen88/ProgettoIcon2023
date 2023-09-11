@@ -6,7 +6,7 @@ Questo repository contiene il progetto per l'esame di igegneria della conoscenza
 </p>
 
 - addestramento base di modelli supervisionati e base per le comparazioni
-- ottimizzazione dei parametri, e k-fold cross validation
+- ottimizzazione dei parametri e k-fold cross validation
 - addestramento di modelli supervisionati dopo tecniche di undersampling
 - addestramento di modelli supervisionati dopo tecniche di oversampling
 - addestramento di modelli supervisionati dopo tecniche di con approccio misto
