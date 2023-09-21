@@ -1,4 +1,4 @@
-# ProgettoIcon2023
+# When the machine learns the hard way
 Questo repository contiene il progetto per l'esame di igegneria della conoscenza presso l'università di Bari falcoltà di informatica.
 
 ## Argomenti trattati
